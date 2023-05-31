@@ -2,3 +2,4 @@ avocados
 limes
 salt
 cilantro
+red chili flakes
